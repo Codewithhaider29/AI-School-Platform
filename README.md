@@ -45,14 +45,6 @@ To preview the production build:
 npm run preview
 ```
 
-## Video Demonstration
-
-Watch the video tutorial for installation and usage:
-
-[![Watch Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-Replace `YOUR_VIDEO_ID` with the actual YouTube video ID.
-
 ## Contributing
 
 Feel free to contribute! Fork the repo, make changes, and create a pull request.
